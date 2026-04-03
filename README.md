@@ -1,65 +1,73 @@
 <h1 align="center">Hi 👋, I'm Jeevesh</h1>
-<h3 align="center">
-Backend-focused Computer Science student building scalable cloud-native systems and distributed applications.
-</h3>
 
 <p align="center">
-I specialize in designing backend architectures using Node.js and AWS, with hands-on experience in serverless systems, real-time data pipelines, and IoT-based applications.
+🚀 Backend Engineer | Cloud & Distributed Systems Enthusiast
+</p>
+
+<p align="center">
+Building scalable systems using Node.js, AWS, and modern backend architectures.
 </p>
 
 ---
 
-### 🚀 What I’ve built:
-- 🔹 AI-powered industrial safety platform (AWS: Lambda, SQS, DynamoDB, SageMaker)
-- 🔹 Real-time IoT tampering detection system with secure device communication
-- 🔹 Contactless heart rate monitoring system integrating cloud + computer vision
+### 🚀 Projects
+
+- 🛠️ **AI Industrial Safety Platform**  
+  → AWS (Lambda, SQS, DynamoDB, SageMaker)
+
+- 🔐 **IoT Tampering Detection System**  
+  → Secure device communication + real-time alerts
+
+- ❤️ **Contactless Heart Rate Monitor**  
+  → Cloud + Computer Vision integration
 
 ---
 
-### 💡 Tech Stack:
+### ⚙️ Tech Stack
 
-#### 🧠 Backend & APIs
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-</p>
+<p align="center">
 
-#### ☁️ Cloud & DevOps
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="40"/>
-</p>
+<b>Backend</b><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,js" />
 
-#### 🗄️ Databases
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"/>
-</p>
+<br><br>
 
-#### 🛠️ Tools
-<p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="40"/>
+<b>Cloud & DevOps</b><br>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx" />
+
+<br><br>
+
+<b>Databases</b><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<br><br>
+
+<b>Tools</b><br>
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
+
 </p>
 
 ---
 
-### 🌱 Currently exploring:
-- Distributed systems  
-- Cloud architecture (AWS)  
-- AI-driven applications  
+### 🌱 Currently Exploring
+- Distributed Systems  
+- Cloud Architecture (AWS)  
+- AI-driven Applications  
 
 ---
 
-### 📫 Reach me:
-- 📧 jeeveshchaurasiya@gmail.com  
-- 🔗 <a href="https://linkedin.com/in/jeevesh2605">LinkedIn</a>  
+### 📫 Connect with me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/jeevesh-chaurasiya-794625273/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="mailto:jeeveshchaurasiya@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
 
 ---
 
-### ⚡ Open to:
-Software Developer / Backend Engineer roles (Intern / Fresher)
+### ⚡ Open to Opportunities
+💼 Software Developer / Backend Engineer (Intern / Fresher)
