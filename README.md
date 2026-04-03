@@ -1,58 +1,27 @@
 <h1 align="center">Hi 👋, I'm Jeevesh</h1>
 
 <p align="center">
-🚀 Backend Engineer | Cloud & Distributed Systems Enthusiast
+Backend-focused Computer Science student with hands-on experience building scalable cloud-native systems and distributed applications using AWS.
 </p>
 
 <p align="center">
-Building scalable systems using Node.js, AWS, and modern backend architectures.
+Experienced in designing serverless architectures, real-time data pipelines, and secure IoT systems.
 </p>
-
----
-
-### 🚀 Projects
-
-- 🛠️ **AI Industrial Safety Platform**  
-  → AWS (Lambda, SQS, DynamoDB, SageMaker)
-
-- 🔐 **IoT Tampering Detection System**  
-  → Secure device communication + real-time alerts
-
-- ❤️ **Contactless Heart Rate Monitor**  
-  → Cloud + Computer Vision integration
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-
-<b>Backend</b><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,js" />
-
-<br><br>
-
-<b>Cloud & DevOps</b><br>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx" />
-
-<br><br>
-
-<b>Databases</b><br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-<br><br>
-
-<b>Tools</b><br>
-<img src="https://skillicons.dev/icons?i=git,github,postman" />
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,js,aws,docker,kubernetes,nginx,mongodb,mysql,git,github,postman" />
 </p>
 
 ---
 
 ### 🌱 Currently Exploring
-- Distributed Systems  
-- Cloud Architecture (AWS)  
-- AI-driven Applications  
+<p align="center">
+Distributed Systems • Cloud Architecture • AI-driven Applications
+</p>
 
 ---
 
@@ -70,4 +39,6 @@ Building scalable systems using Node.js, AWS, and modern backend architectures.
 ---
 
 ### ⚡ Open to Opportunities
-💼 Software Developer / Backend Engineer (Intern / Fresher)
+<p align="center">
+Software Developer / Backend Engineer (Intern / Fresher)
+</p>
