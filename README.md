@@ -49,6 +49,8 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,reactnative" />
 </p>
 
+---
+
 ### 📊 GitHub Activity
 
 <p align="center">
