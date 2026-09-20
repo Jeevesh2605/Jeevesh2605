@@ -49,27 +49,15 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,reactnative" />
 </p>
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Technologies |
-| :--- | :--- | :--- |
-| **SafeSite AI** | Cloud-based industrial safety auditing platform for automated personal protective equipment compliance verification. | AWS, Asynchronous Pipelines, Node.js |
-| **TruMeasure** | IoT anti-tampering system utilizing statistical anomaly detection for real-time weighing telemetry. | AWS IoT Core, MQTT, Microcontrollers |
-| **SubSaver** | Full-stack subscription expense management application featuring automated text recognition and dashboard analytics. | React, Node.js, Express, MongoDB |
-
----
-
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777" alt="Jeevesh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&stroke=0000&ring=2196F3&fire=2196F3&currStreakNum=777777" alt="Jeevesh's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeevesh2605&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777" alt="Jeevesh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeevesh2605&theme=transparent&hide_border=true&stroke=0000&ring=2196F3&fire=2196F3&currStreakNum=777777" alt="Jeevesh's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevesh2605&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="Top Languages" />
 </p>
 
 ---
