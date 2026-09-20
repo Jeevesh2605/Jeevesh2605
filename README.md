@@ -50,19 +50,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeevesh2605&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777" alt="Jeevesh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeevesh2605&theme=transparent&hide_border=true&stroke=0000&ring=2196F3&fire=2196F3&currStreakNum=777777" alt="Jeevesh's GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevesh2605&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="Top Languages" />
-</p>
-
----
 <p align="center">
   <i>"Simplicity is prerequisite for reliability." - Edsger W. Dijkstra</i>
 </p>
